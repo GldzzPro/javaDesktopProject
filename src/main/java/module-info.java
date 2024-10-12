@@ -10,7 +10,14 @@ module tn.uvt.training.bookreservation {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires org.jfxtras.styles.jmetro;
+    requires java.logging;
+    requires spring.context;
+    requires spring.boot;
+    requires spring.beans;
+    requires java.sql;
 
-    opens tn.uvt.training.bookreservation to javafx.fxml;
+    opens tn.uvt.training.bookreservation;
+    opens tn.uvt.training.bookreservation.controller;
     exports tn.uvt.training.bookreservation;
+    exports tn.uvt.training.bookreservation.controller;
 }

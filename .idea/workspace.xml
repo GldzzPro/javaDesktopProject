@@ -5,24 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d14ec43a-5d4a-479f-9add-73184dee87ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/uvt/training/bookreservation/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/uvt/training/bookreservation/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/uvt/training/bookreservation/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/uvt/training/bookreservation/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/uvt/training/bookreservation/controller/DashboardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tn/uvt/training/bookreservation/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/arrowLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/arrowLeftBlack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/b.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/books.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/close-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/fullscreen-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/fullscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/left_down_2_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/load.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/minimize-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/minimize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/school.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/unfullscreen-hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/unfullscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/images/up_right_64px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/views/dashboard.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/uvt/training/bookreservation/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/uvt/training/bookreservation/AdminApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/uvt/training/bookreservation/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/uvt/training/bookreservation/LibraryManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/uvt/training/bookreservation/LibraryManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tn/uvt/training/bookreservation/views/login.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,15 +69,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AdminApplication.executor": "Run",
     "Application.HelloApplication.executor": "Run",
+    "Application.LibraryManagementSystem.executor": "Debug",
     "Maven.book-reservation [install].executor": "Run",
     "Maven.book-reservation.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "last_opened_file_path": "D:/work/book-reservation/src/main/resources/tn/uvt/training/bookreservation/views",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\work\book-reservation\src\main\resources\tn\uvt\training\bookreservation\views" />
+      <recent name="D:\work\book-reservation\src\main\resources\tn\uvt\training\bookreservation\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\work\book-reservation\src\main\resources\tn\uvt\training\bookreservation\views" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="tn.uvt.training.bookreservation" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tn.uvt.training.bookreservation.controller" />
+      <recent name="tn.uvt.training.bookreservation" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn install" />
@@ -70,5 +114,16 @@
       <updated>1728724445384</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
